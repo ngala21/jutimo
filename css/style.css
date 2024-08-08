@@ -13,7 +13,21 @@
   outline: none;
 } */
 
-footer {
+.btn {
+  background: red;
+  color: white;
+
+}
+
+.navbar {
+  display: flex;
+}
+
+.nav-menu {
+  justify-content: space-between;
+}
+
+/* footer {
   margin-top: 5rem;
   font-weight: bold;
-}
+} */
