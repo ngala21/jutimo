@@ -1,0 +1,2 @@
+// jabaScript
+document.querySelector()
